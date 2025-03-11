@@ -50,12 +50,12 @@ header a:hover, footer a:hover {
 }
 
 section {
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 7%;
+    padding-bottom: 7vh;
     line-height: 2em;
     padding-left: 45px;
     font-family: var(--fonte3);
-    font-size: 4.0vw;
+    font-size: 3.5vw;
 }
 
 section > p {
